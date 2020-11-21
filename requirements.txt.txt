@@ -1,0 +1,11 @@
+# Besides the below libraries, program conda is also needed and two commands.
+# Inside models/research you need to call command to compile protobuf: 
+	# protoc object_detection/protos/*.proto --python_out=.
+# inside models/research/object_detection/packages/tf2/setup.py call command to install Object Detection API:
+	# python -m pip install .
+
+tensorflow
+cython
+pandas
+protobuf
+numpy

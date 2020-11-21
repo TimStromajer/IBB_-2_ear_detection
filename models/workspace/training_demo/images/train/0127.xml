@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0127.png</filename>
+	<path>T:\sola\ibb\naloga2\models\workspace\training_demo\images\0127.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>129</ymin>
+			<xmax>63</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
