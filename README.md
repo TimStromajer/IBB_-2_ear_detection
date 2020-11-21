@@ -1,1 +1,1 @@
-# IBB_-2_ear_detection
+# IBB assignment 2 - ear detection model
